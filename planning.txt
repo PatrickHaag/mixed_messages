@@ -1,0 +1,18 @@
+nested array with 3 Arrays and each about 5 components 
+
+sentence: 1. subject - 2. predicate - 3. object
+ 
+choose by random each component
+
+console log it
+
+
+
+contant:
+
+
+1. Der Schmied, Der Müller, Die Gans, Der Knöig, Der Sklave
+
+2. trinkt, baut, käuft, isst, stiehlt
+
+3. Kartoffeln, Leberkässemmel, Wein, Brot, Käse
